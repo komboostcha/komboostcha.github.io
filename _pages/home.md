@@ -11,6 +11,7 @@ header:
     - label: "Comming Soon!"
       url: "https://komboostcha.com/"
   caption: "Photo credit: [**Komboostcha.com**](https://komboostcha.com/)"
+excerpt: "Taking care of your health with selected ingredients to boost your day."
 feature_row:
   - image_path: /assets/images/energyboost.jpeg
     alt: "Energy Boost"
