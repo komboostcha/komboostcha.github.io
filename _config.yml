@@ -2,7 +2,7 @@
 locale                   : "en"
 title                    : "Komboostcha"
 title_separator          : "-"
-subtitle                 : "Taking care of your health with selected ingredients to boost your day."
+subtitle                 : "Deliciously healthy."
 name                     : &name "Komboostcha" # &name is a YAML anchor which can be *referenced later
 description              : &description "Taking care of your health with selected ingredients to boost your day."
 url                      : https://komboostcha.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
