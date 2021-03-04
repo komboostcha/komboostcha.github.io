@@ -8,7 +8,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/komboostcha.jpg
   actions:
-    - label: "Comming Soon!"
+    - label: "Coming Soon!"
       url: "https://komboostcha.com/"
   caption: "Photo credit: [**Komboostcha.com**](https://komboostcha.com/)"
 excerpt: "Taking care of your health with selected ingredients to boost your day."
