@@ -14,17 +14,14 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
 /*
    Layout specific adjustments
    ========================================================================== */
-.layout--post,
-.layout--page {
-    .entry-content {
+.entry-content {
     @include breakpoint($large) {
         width: span(14 of 16);
     }
     }
 }
 
-.layout--about {
-    .entry-wrap {
+.entry-wrap {
     display: -ms-flexbox;
     display: flex;
     -ms-flex-wrap: wrap;
