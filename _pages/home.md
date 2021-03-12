@@ -1,5 +1,5 @@
 ---
-title: "Komboostcha"
+title: "Komboostcha's Club"
 layout: splash
 permalink: /
 date: 2021-02-17T18:40:00-04:00
@@ -8,10 +8,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/komboostcha.jpg
   actions:
-    - label: "Coming Soon!"
-      url: "https://komboostcha.com/"
+    - label: "Komboostcha's Club Coming Soon!"
+      url: "https://komboostcha.com/club/"
   caption: "Photo credit: [**Komboostcha.com**](https://komboostcha.com/)"
-excerpt: "Taking care of your health with selected ingredients to boost your day."
+excerpt: "Taking care of your health with selected ingredients to boost your day. [Contact us to order your bottle of live happiness](https://instagram.com/kom.boost.cha)."
 feature_row:
   - image_path: /assets/images/energyboost.jpeg
     alt: "Energy Boost"
