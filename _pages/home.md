@@ -1,5 +1,5 @@
 ---
-title: "Komboostcha's Club"
+title: "Komboostcha"
 layout: splash
 permalink: /
 date: 2021-02-17T18:40:00-04:00
