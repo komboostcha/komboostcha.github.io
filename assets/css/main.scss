@@ -18,7 +18,7 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
     @include breakpoint($large) {
         width: span(14 of 16);
     }
-    }
+}
 
 .entry-wrap {
     display: -ms-flexbox;
@@ -30,16 +30,16 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
         -ms-flex-wrap: nowrap;
         flex-wrap: nowrap;
     }
-    }
+}
 
-    .entry-content {
+.entry-content {
     @include breakpoint($medium) {
         -ms-flex: 1;
         flex: 1;
     }
-    }
+}
 
-    .entry-sidebar {
+.entry-sidebar {
     order: -1;
     -ms-flex-order: -1;
 
@@ -56,4 +56,4 @@ $monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospa
         margin: 0 0 0 2rem;
         }
     }
-    }
+ }
