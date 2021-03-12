@@ -6,7 +6,7 @@ title: "About"
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
     <div class="entry-wrap">
-      <aside class="entry-sidebar">
+      <aside class="sidebar__right">
           <img class="author-picture" src="/assets/images/bio.jpeg" alt="Camila Curvelo" />
       </aside>
       <div class="entry-content">
