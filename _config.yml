@@ -45,9 +45,6 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name    : "" # Komboostcha
-  avatar  : "" # /assets/images/komboostcha_profile.jpg
-  bio     : "" # Taking care of your health with selected ingredients to boost your day.
   location: "Portmarnock, Dublin, Ireland"
   links:
     - label: "Instagram"
