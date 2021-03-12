@@ -7,6 +7,9 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+$accent-color: #00838a !default;
+/* $text-color: #181c22 !default; */
+
 /*
    Layout specific adjustments
    ========================================================================== */
