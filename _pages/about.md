@@ -3,6 +3,7 @@ permalink: /about/
 title: "About"
 feature_row:
   - image_path: /assets/images/bio.jpeg
+    type: "left"
     alt: "Camila Curvelo"
     title: "The person behind the Komboostcha"
     excerpt: "I am Camila, Brazilian living in Ireland since 2016, Food Engineer and passionate about the fermentation process. I used to work in a brewery company and that is when my passion started.
