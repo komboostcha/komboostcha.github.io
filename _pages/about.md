@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "The person behind the Komboostcha"
 ---
 
 <main id="main" class="page-content" aria-label="Content">
